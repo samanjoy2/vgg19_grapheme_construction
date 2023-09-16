@@ -14,8 +14,7 @@ Streamlit Implementation: https://grapheme-construction-vgg19.streamlit.app/
 ## License
 
 This Research is
-- © Tanusree Das Aishi
-- © Tanusree Das Aishi
-- © Tanusree Das Aishi
-- © Tanusree Das Aishi
-- © Tanusree Das Aishi
+- © MD.SEAM ILTIMAS
+- © TANUSREE DAS AISHI
+- © PRITAM BARUA
+- © MIRZA AZWAD WAKIL
