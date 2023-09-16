@@ -40,7 +40,7 @@ from PIL import Image
 from huggingface_hub import hf_hub_download
 import matplotlib.pyplot as plt
 
-st.title('Grapheme Reconstruction :blue[(Model: VGG19)]')
+st.title('Grapheme Reconstruction :blue[(VGG19)]')
 st.subheader('Upload an image and get the Grapheme Reconstructed', divider = 'rainbow')
 uploaded_file = st.file_uploader("Choose a file")
 
