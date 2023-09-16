@@ -14,7 +14,7 @@ Streamlit Implementation: https://grapheme-construction-vgg19.streamlit.app/
 ## License
 
 This Research is
-- © MD.SEAM ILTIMAS
 - © TANUSREE DAS AISHI
+- © MD.SEAM ILTIMAS
 - © PRITAM BARUA
 - © MIRZA AZWAD WAKIL
