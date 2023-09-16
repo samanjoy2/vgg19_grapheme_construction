@@ -228,7 +228,7 @@ if uploaded_file:
     y_pred_vowel_diacritic_new = []
     y_pred_consonant_diacritic_new = []
 
-    img = tf.keras.utils.load_img(uploaded_file, color_mode='grayscale',target_size=(200, 200))
+    img = tf.keras.utils.load_img(uploaded_file, color_mode='grayscale',target_size=(224, 224))
     img = tf.keras.utils.img_to_array(img)/255.
     img = np.expand_dims(img, axis=0)
     pr = model.predict(img, verbose=0)
