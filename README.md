@@ -10,11 +10,3 @@ Using VGG19 Model, we are predicting Graphemes from the given image and reconstr
 ## Implementation
 
 Streamlit Implementation: https://grapheme-construction-vgg19.streamlit.app/
-
-## License
-
-This Research is
-- © TANUSREE DAS AISHI
-- © MD.SEAM ILTIMAS
-- © PRITAM BARUA
-- © MIRZA AZWAD WAKIL
